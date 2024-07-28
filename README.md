@@ -1,5 +1,5 @@
 # FakeNetworkTool
-#Linux#kali#network#wifi#Penetration
+#Linux#kali#network#wifi#Penetration#fake-wifi
 # FakeNetworkTool
 ❗ Do not use it for malicious purposes, it's only for educational purposes. Stay in Legal !!!!!
 FakeNetworkTool is a Python-based tool developed for network security and ethical hacking. This tool helps you discover network vulnerabilities by creating fake wireless networks. 
